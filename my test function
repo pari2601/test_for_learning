@@ -1,0 +1,13 @@
+#include <iostream>
+#include <utility>
+#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+auto p = 1;
+cout << p << endl;
+
+return 0;
+
+}
+ 
